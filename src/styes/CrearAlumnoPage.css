@@ -1,0 +1,12 @@
+.form-group label{
+    display: flex;
+    font-weight: bold;
+}
+.card{
+    width: 70%;
+    margin:20px auto;
+}
+body{
+    background: rgb(228,228,228);
+    background: linear-gradient(90deg, rgba(228,228,228,1) 0%, rgba(134,134,134,1) 100%);
+}
